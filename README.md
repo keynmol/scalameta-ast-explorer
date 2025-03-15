@@ -1,3 +1,8 @@
+> [!IMPORTANT]  
+> This repository has moved to [Scalameta org](https://github.com/scalameta/ast-explorer) and is [live on Scalameta website](https://scalameta.org/ast-explorer/)
+
+---
+
 # Scala AST explorer
 
 Use Scalameta in the browser to explore Scala code syntax.
