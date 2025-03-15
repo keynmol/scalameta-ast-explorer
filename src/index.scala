@@ -188,12 +188,6 @@ val header = div(
     ),
     " | ",
     a(
-      "Scala.js",
-      href := "https://scala-js.org",
-      basicLink
-    ),
-    " | ",
-    a(
       "Laminar",
       href := "https://laminar.dev",
       basicLink
